@@ -1,4 +1,4 @@
-package com.H.Cityapi.countries;
+package com.H.Cityapi.entities;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
