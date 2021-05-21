@@ -1,6 +1,5 @@
 package com.H.Cityapi.entities;
 
-import com.H.Cityapi.entities.Country;
 import java.util.List;
 import javax.persistence.Basic;
 import javax.persistence.Column;
